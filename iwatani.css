@@ -1,0 +1,40 @@
+body {
+    background-image: url("char/glass3D.jpg");
+    background-size: 1000px 750px;
+
+}
+
+#iwatani{
+
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    margin-top: 22em;
+    margin-left: 4em;
+
+}
+
+#house{
+    position: fixed;
+    width: 150px;
+    height: 60px;
+    margin-top: 22em;
+    margin-left: 4em;
+}
+
+#kyoukai{
+    position: fixed;
+    width: 800px;
+    height:500px;
+    margin-top: 10em;
+    margin-left: 50em;
+}
+
+#bell{
+    margin-top: 500px;
+    margin-left: 700px;
+
+}
+
+
+
